@@ -4,9 +4,9 @@ Please submit the project using a feature branch, add a new folder in the "proje
 You can then add project basic information files, project details files, AMA files, and terms files to this folder.     
 
 **1、 Project basic information file**     
-*Naming convention*: Use camel case naming, name it after the project name, and end with .json.       
+***Naming convention***: Use camel case naming, name it after the project name, and end with .json.       
      Example: **synboProtocol.json**      
-*File content*: Contains the document fields below, please read carefully.       
+***File content***: Contains the document fields below, please read carefully.       
 
 **2. Project details file**     
 ***Naming convention***: The file name starts with info_, plus the project name, and ends with .md.     
