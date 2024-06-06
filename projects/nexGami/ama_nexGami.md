@@ -13,8 +13,6 @@ Our marketing strategy unfolds in three phases. First, we aim to captivate 800,0
 
 The final phase is designed to deepen social engagement within our platform and games, encouraging the formation of numerous guild communities. Friends within the same guild collaborate and grow together, enjoying a shared gaming experience. Meanwhile, rivalries between different guilds will emerge, sparking competitive battles across various games, giving rise to a sustainable, vibrant, and financially potent user ecosystem.    
    
-
-
      
 * Some Marketing Strategy:    
 * Community Engagement    
