@@ -11,7 +11,7 @@
         {
             "name": "NexGami",
             "symbol": "NEXG",
-            "contractAddress": "0x2",
+            "contractAddress": "0x3",
             "totalSupply": "1,000,000,000",
             "valuation": "875,000",
             "circulatingSupply": "17,500,000",
