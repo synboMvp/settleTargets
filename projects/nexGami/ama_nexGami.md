@@ -2,7 +2,7 @@
 Like many game platforms, we also have the function of displaying games so that players can find many games to play when entering the platform. What is different from them is that most of GameFi's so-called P2Es are actually Ponzi games, and we hope that they can become web3 leaders for traditional game users. Make money by leading and serving traditional game players. This feels very much like we are recruiting old web3 players to make money by contributing value, rather than just entering in advance and waiting for the taker to appear.              
 
 In addition, our platform places great emphasis on social interaction. The cooperation of guild members in the game and the confrontation between guilds run through every game on the platform and the platform itself. Social networking is our core content, and it will also allow players to be more active, stay longer, and pay more on the platform.     
-
+  
 # What is NexGami (NEXG) roadmap?
 
 ![ picture ](https://storage.googleapis.com/public-dao-pad-prod/1709306126_6%20(4).webp)
