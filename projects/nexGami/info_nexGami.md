@@ -1,5 +1,5 @@
 # What is NexGami (NEXG)?
-NexGami is a Web3 gaming platform, aims to be the prime venue for hosting competitive gaming events across various titles. Its mission is to bring traditional gamers into the Web3 space, offering the tangible benefits of tokenomics. “Connecting Web3 and traditional gaming, shaping the digital game mentors of tomorrow.”          
+NexGami is a Web3 gaming platform, aims to be the prime venue for hosting competitive gaming events across various titles. Its mission is to bring traditional gamers into the Web3 space, offering the tangible benefits of tokenomics. “Connecting Web3 and traditional gaming, shaping the digital game mentors of tomorrow.”           
 
 ![ picture ](https://storage.googleapis.com/public-dao-pad-prod/1709306030_2%20(2).webp)
 
