@@ -12,7 +12,10 @@ In addition, our platform places great emphasis on social interaction. The coope
 Our marketing strategy unfolds in three phases. First, we aim to captivate 800,000 to 1 million native Web3 community members, with our Twitter followers already nearing the 300,000 mark. Next, we plan to entice approximately 8 to 10 million users from the traditional gaming market, fostering a symbiotic mentorship between them and our Web3 aficionados. Web3 veterans will guide traditional gamers through the intricacies of Tokens and NFTs, while the latter will share insights on cost-effective gaming and growth strategies, thus cultivating a unique user ecosystem for our platform.    
 
 The final phase is designed to deepen social engagement within our platform and games, encouraging the formation of numerous guild communities. Friends within the same guild collaborate and grow together, enjoying a shared gaming experience. Meanwhile, rivalries between different guilds will emerge, sparking competitive battles across various games, giving rise to a sustainable, vibrant, and financially potent user ecosystem.    
+   
 
+
+     
 * Some Marketing Strategy:    
 * Community Engagement    
 * Influencer Partnerships   
