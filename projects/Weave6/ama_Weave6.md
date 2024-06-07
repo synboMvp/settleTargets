@@ -15,7 +15,7 @@
 
 **ZetaChain: The Vanguard of Cross-Chain Messaging and Omnichain Standards**
 
-Already listed on OKX and Coinbase, ZetaChain is known for its unique cross-chain messaging system and Omnichain Standard. ZetaChain represents a more integrated and native approach to cross-chain functionality, designed to be inherently interoperable across multiple blockchains. It enables native cross-chain interoperability, meaning assets can exist and be recognized on multiple chains without the need for transferring or locking/unlocking. This allows for the seamless transfer and management of assets across various chains.   
+Already listed on OKX and Coinbase, ZetaChain is known for its unique cross-chain messaging system and Omnichain Standard. ZetaChain represents a more integrated and native approach to cross-chain functionality, designed to be inherently interoperable across multiple blockchains. It enables native cross-chain interoperability, meaning assets can exist and be recognized on multiple chains without the need for transferring or locking/unlocking. This allows for the seamless transfer and management of assets across various chains.       
 
 ![ picture ](https://storage.googleapis.com/public-dao-pad-prod/1708002524_1ded1dbd013620b8f129b8853a8c91a0.webp)
 
