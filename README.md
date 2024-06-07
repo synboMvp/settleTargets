@@ -45,14 +45,14 @@ After submission, it will be reviewed by a dedicated team member and merged into
 "project": {    
 "title": "Required, project name, such as SYNBO protocol",    
 "description one sentence": "Required, this is a sentence of 50 characters or less to introduce a project",    
-"bannerImage": "Optional, banner image, 1440*400, base64, svg, less than 1M",    
-"tags": "Required, such as: DEFI, DAO, LAYER2..., industry standard identifiers for easy classification and browsing"   
-"logo": "Required, project logo image, 120*120, base64, svg, less than 1M",    
-"chains": "Required, the ecosystem it is in, such as: "ETH, BNB", etc.,      
+"bannerImage": "Optional, banner image link, 1440 *400",    
+"tags": "Required, such as: DEFI, DAO, LAYER2..., industry standard identifiers for easy classification and browsing",       
+"logo": "Required, project logo image link, 120 *120",     
+"chains": "Required, the ecosystem it is in, such as: "ETH, BNB"     
 },    
 
 "token[]": [    
-{
+{    
 "name":"Optional, token name, such as SYNBO",    
 "symbol":"Optional, token symbol, such as SYT",    
 “contractAddress”:“Optional, if it is erc20, then display contractAddress”,    
