@@ -9,6 +9,8 @@ By leveraging the cross-chain and Omnichain standard infrastructure, users on We
 
 **Tim: Developer Lead**
 
+
+
 * Over 7 years of experience in blockchain design and development.
 * Ex CTO of Huobi Chain.
 * Former CTO of Kingsoft Cloud Blockchain.    
