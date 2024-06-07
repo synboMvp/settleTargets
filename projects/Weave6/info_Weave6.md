@@ -1,5 +1,5 @@
 # What is Weave6 (WX)?
-Weave6 is an Omnichain asset trading infrastructure that incorporates an indexer, marketplace, and launchpad to form a one-stop access for dApps to launch, and for users to mint and trade Omnichain assets (NFTs & Inscriptions).      
+Weave6 is an Omnichain asset trading infrastructure that incorporates an indexer, marketplace, and launchpad to form a one-stop access for dApps to launch, and for users to mint and trade Omnichain assets (NFTs & Inscriptions).          
 
 By leveraging the cross-chain and Omnichain standard infrastructure, users on Weave6 can manage their multi-chain assets with a chain-agnostic, seamless experience. dApps on Weave6 can launch their Omnichain NFT and inscription assets with cross-chain interoperability.     
 
