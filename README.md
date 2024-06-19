@@ -43,23 +43,23 @@ After submission, it will be reviewed by a dedicated team member and merged into
 },   
 
 "project": {    
-"name": "Required, project name, such as SYNBO protocol",    
+"title": "Required, project name, such as SYNBO protocol",    
 "description one sentence": "Required, this is a sentence of 50 characters or less to introduce a project",    
-"logo": "Required, project logo image, 120*120, base64, svg, less than 1M",    
-"bannerImage": "Optional, banner image, 1440*400, base64, svg, less than 1M",    
-"chains": "Required, the ecosystem it is in, such as: "ETH, BNB", etc.,    
-"tags": "Required, such as: DEFI, DAO, LAYER2..., industry standard identifiers for easy classification and browsing"    
+"bannerImage": "Optional, banner image link, 1440 *400",    
+"tags": "Required, such as: DEFI, DAO, LAYER2..., industry standard identifiers for easy classification and browsing",       
+"logo": "Required, project logo image link, 120 *120",     
+"chains": "Required, the ecosystem it is in, such as: "ETH, BNB"     
 },    
 
 "token[]": [    
-{
+{    
 "name":"Optional, token name, such as SYNBO",    
 "symbol":"Optional, token symbol, such as SYT",    
-"where-chain":"Optional, which chain is the token on? ”,    
 “contractAddress”:“Optional, if it is erc20, then display contractAddress”,    
 “totalSupply”:“Optional, format: 100,000.000”,    
 “valuation”:“Optional, the valuation of the last round of financing, format: 100,000.000”,    
 “circulatingSupply”:“Optional, format: 100,000.000”,    
+"whereChain":"Optional, which chain is the token on? ”,    
 “tokenType”:“Optional, ERC-20 or Native_TOKEN”,    
 “description”:“Optional, a description of the role, utility or life cycle of the current token in the project. "    
 },    
