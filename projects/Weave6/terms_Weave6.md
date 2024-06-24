@@ -29,6 +29,4 @@ By leveraging the cross-chain and Omnichain standard infrastructure, users on We
 
 ![ picture ](https://storage.googleapis.com/public-dao-pad-prod/1708002305_b65c6827709bf06abdf1d1848291c76c.webp)
 
-# What are token metrics of Weave6 ($WX)?
 
-![ picture ](https://storage.googleapis.com/public-dao-pad-prod/1708002290_0700827b906920dbb6ed8e3e25b16562.webp)
