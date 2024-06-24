@@ -24,9 +24,3 @@ By leveraging the cross-chain and Omnichain standard infrastructure, users on We
 
 * More than 5 years in project management.
 * Former project manager for an investment holding company, managed a portfolio valued in billions.
-
-# What is Weave6 (WX) roadmap?
-
-![ picture ](https://storage.googleapis.com/public-dao-pad-prod/1708002305_b65c6827709bf06abdf1d1848291c76c.webp)
-
-
