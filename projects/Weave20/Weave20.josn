@@ -1,6 +1,6 @@
 {
     "project": {
-        "title": "Weave11",
+        "title": "Weave20",
         "description": "Weave7 is an omnichain asset trading infrastructure that includes an indexer,  a marketplace, and launchpad to provide a comprehensive access point for dApps and users to launch, mint, and trade omnichain assets (NFT&Inscription).",
         "bannerImage": "https://pbs.twimg.com/profile_banners/1539167376809545728/1684133759/1500x500",
         "tags": "NFT,NFT marketplace,Launchpad",
@@ -9,7 +9,7 @@
     },
     "token": [
         {
-            "name": "Weave11",
+            "name": "Weave20",
             "symbol": "WX",
             "contractAddress": "0x2817CECf94465a9F7beCF43d9b7c8025e88A4213",
             "totalSupply": "1,000,000,000.000",
