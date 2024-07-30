@@ -14,7 +14,7 @@ DIP101 是一个去中心化的保险平台，利用区块链技术提供透明�
 ### 横幅图片
 ![DIP101 Banner](https://catlina-assets.standard.us-east-1.oortech.com/DIP101-banner.jpg)
 
-### 标签
+### 标签（TAGs）
 DeFi, Insurance
 
 ### 标志
