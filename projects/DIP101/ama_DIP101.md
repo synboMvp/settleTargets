@@ -12,13 +12,13 @@ DIP101
 DIP101 是一个去中心化的保险平台，利用区块链技术提供透明、高效且公平的保险服务。用户可以创建、购买和管理各种保险产品，包括健康保险、财产保险和旅行保险等。
 
 ### 横幅图片
-![DIP101 Banner](https://catlina-assets.standard.us-east-1.oortech.com/DIP101-banner)
+![DIP101 Banner](https://catlina-assets.standard.us-east-1.oortech.com/DIP101-banner.jpg)
 
 ### 标签
 DeFi, Insurance
 
 ### 标志
-![DIP101 Logo](https://catlina-assets.standard.us-east-1.oortech.com/DIP101)
+![[DIP101 Logo](https://catlina-assets.standard.us-east-1.oortech.com/DIP101.jpg)
 
 ### 支持链
 ETH, Polygon
