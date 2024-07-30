@@ -1,0 +1,27 @@
+{
+    "project": {
+        "title": "DIP101",
+        "description": "DIP101 是一个去中心化的保险平台，旨在利用区块链技术提供透明、高效且公平的保险服务。用户可以创建、购买和管理各类保险产品，覆盖健康、财产、旅行等多个领域。",
+        "bannerImage": "https://catlina-assets.standard.us-east-1.oortech.com/DIP101-banner",
+        "tags": "DeFi,Insurance",
+        "logo": "https://catlina-assets.standard.us-east-1.oortech.com/DIP101",
+        "chains": "ETH,Polygon"
+    },
+    "token": [
+        {
+            "name": "DIP Token",
+            "symbol": "DIP",
+            "contractAddress": "0x470d11b00bD3340cb76Ed49aC7F2Fc69DA1fb3cA",
+            "totalSupply": "500,000,000",
+            "valuation": "5,000,000",
+            "circulatingSupply": "250,000,000",
+            "whereChain": "ETH,Polygon",
+            "tokenType": "ERC-20"
+        }
+    ],
+    "social": {
+        "website": "https://www.dip101.io/",
+        "twitter": "https://twitter.com/dip101insurance",
+        "discord": "https://discord.com/invite/dip101insurance"
+    }
+}
