@@ -1,0 +1,30 @@
+{
+    "project": {
+        "title": "Pichi Finance",
+        "description": "Points trading protocol",
+        "bannerImage": "https://pbs.twimg.com/profile_banners/1761135603523964928/1716900662/1500x500",
+        "tags": "DeFi,Points Market",
+        "logo": "https://pbs.twimg.com/profile_images/1796340475252916224/7S-NOg6q_400x400.jpg",
+        "chains": "ETH、ARB"
+    },
+    "token": [
+        {
+            "name": "Pichi Finance",
+            "symbol": "PICHI",
+            "contractAddress": "",
+            "totalSupply": "1,000,000,000",
+            "valuation": "3,630,000",
+            "circulatingSupply": "121,000,000",
+            "whereChain": "ETH、ARB",
+            "tokenType": "ERC-20"
+        }
+    ],
+    "social": {
+        "website": "https://pichi.finance/",
+        "twitter": "https://x.com/pichifinance",
+        "docs":"https://docs.pichi.finance/",
+        "discord": "https://discord.com/invite/pichifinance",
+        "telegram":"http://t.me/pichifinance",
+        "medium":"http://medium.com/@pichifinance"
+    }
+}
