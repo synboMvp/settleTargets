@@ -1,0 +1,28 @@
+{
+    "project": {
+        "title": "Optimism",
+        "description": "Ethereum L2 solution using optimistic rollup technology",
+        "bannerImage": "https://pbs.twimg.com/profile_banners/1044836083530452992/1709676539/1500x500",
+        "tags": "Infra、Layer2",
+        "logo": "https://pbs.twimg.com/profile_images/1734354549496836096/-laoU9C9_400x400.jpg",
+        "chains": "ETH"
+    },
+    "token": [
+        {
+            "name": "Optimism",
+            "symbol": "OP",
+            "contractAddress": "0x4200000000000000000000000000000000000042",
+            "totalSupply": "4,294,967,296",
+            "valuation": "6,066,264,422.94",
+            "circulatingSupply": "1,187,596,466",
+            "whereChain": "ETH",
+            "tokenType": "ERC-20"
+        }
+    ],
+    "social": {
+        "website": "https://www.optimism.io/",
+        "twitter": "https://x.com/Optimism",
+        "github":"https://github.com/ethereum-optimism/",
+        "medium":"https://optimismpbc.medium.com/"
+    }
+}
