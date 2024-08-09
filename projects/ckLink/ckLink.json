@@ -1,0 +1,30 @@
+
+{
+    "project": {
+        "title": "zkLink",
+        "description": "Trading-focused multi-chain L2 network",
+        "bannerImage": "https://pbs.twimg.com/profile_banners/1389853516118716417/1715145166/1500x500",
+        "tags": "Infra、Layer2",
+        "logo": "https://pbs.twimg.com/profile_images/1790560996224098305/kI4FEjmn_400x400.png",
+        "chains": "Ethereum、Polygon、BNB Chain、Avalanche、Arbitrum、Optimism、Base、StarkNet、ZkSync、Linea、Polygon zkEVM、Manta、opBNB"
+    },
+    "token": [
+        {
+            "name": "zkLink",
+            "symbol": "ZKL",
+            "contractAddress": "0xfc385a1df85660a7e041423db512f779070fcede",
+            "totalSupply": "1,000,000,000",
+            "valuation": "129,787,850.38",
+            "circulatingSupply": "136,375,000",
+            "whereChain": "ETH",
+            "tokenType": "ERC-20"
+        }
+    ],
+    "social": {
+        "website": "https://zk.link/",
+        "twitter": "https://x.com/zkLink_Official",
+        "telegram":"https://t.me/zkLinkorg",
+        "github":"https://github.com/zkLinkProtocol",
+        "docs":"https://docs.zk.link/"
+    }
+}
