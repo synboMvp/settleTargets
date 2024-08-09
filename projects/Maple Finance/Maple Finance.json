@@ -1,0 +1,29 @@
+{
+    "project": {
+        "title": "Maple Finance",
+        "description": "Modular blockchain focused on data availability ",
+        "bannerImage": "https://pbs.twimg.com/profile_banners/1164762427604389890/1711531486/1500x500",
+        "tags": "DeFi、Lending、RWA、Institutional DeFi",
+        "logo": "https://pbs.twimg.com/profile_images/1772917736655433728/l7GYu-hy_400x400.jpg",
+        "chains": "ETH、Solana、Base"
+    },
+    "token": [
+        {
+            "name": "Maple Finance",
+            "symbol": "MPL",
+            "contractAddress": "0x33349b282065b0284d756f0577fb39c158f935e6",
+            "totalSupply": "10,000,000",
+            "valuation": "151,200,000",
+            "circulatingSupply": "7,834,419.115",
+            "whereChain": "ETH",
+            "tokenType": "ERC-20"
+        }
+    ],
+    "social": {
+        "website": "https://maple.finance/",
+        "twitter": "https://x.com/maplefinance",
+        "github":"hhttps://github.com/maple-labs",
+        "telegram":"https://t.me/maplefinance",
+        "medium":"https://maplefinance.medium.com/"
+    }
+}
