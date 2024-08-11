@@ -2,9 +2,9 @@
     "project": {
         "title": "DIP101",
         "description": "DIP101 是一个去中心化的保险平台,旨在利用区块链技术提供透明、高效且公平的保险服务。用户可以创建，购买和管理各类保险产品，覆盖健康、财产、旅行等多个领域。 ",
-        "bannerImage": "https://catlina-assets.standard.us-east-1.oortech.com/DIP101-banner",
+        "bannerImage": "https://catlina-assets.standard.us-east-1.oortech.com/DIP101-banner.jpg",
         "tags": "DeFi,Insurance",
-        "logo": "https://catlina-assets.standard.us-east-1.oortech.com/DIP101",
+        "logo": "https://catlina-assets.standard.us-east-1.oortech.com/DIP101.jpg",
         "chains": "ETH,Polygon"
     },
     "token": [
