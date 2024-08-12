@@ -1,0 +1,29 @@
+
+{
+    "project": {
+        "title": "Taiko",
+        "description":"Decentralized, Ethereum-equivalent ZK-Rollup",
+        "bannerImage": "https://pbs.twimg.com/profile_banners/1529303887668056064/1716029341/1500x500",
+        "tags": "Infra、Layer2、zk",
+        "logo": "https://pbs.twimg.com/profile_images/1664696448808615937/LQhJeOO__400x400.jpg",
+        "chains": "ETH"
+    },
+    "token": [
+        {
+            "name": "Taiko",
+            "symbol": "TAIKO",
+            "contractAddress": "0x10dea67478c5f8c5e2d90e5e9b26dbe60c54d800",
+            "totalSupply": "1,000,000,000",
+            "valuation": "1,881,001,117.1",
+            "circulatingSupply": "65,951,595.107",
+            "whereChain": "ETH",
+            "tokenType": "ERC-20"
+        }
+    ],
+    "social": {
+        "website": "https://taiko.xyz/",
+        "twitter": "https://x.com/taikoxyz",
+        "github":"https://github.com/taikoxyz",
+        "docs":"https://taiko.xyz/docs/intro/"
+    }
+}
