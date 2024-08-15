@@ -1,60 +1,19 @@
+**Pichi Finance** is a **points trading protocol** that enables users to trade points from their favorite protocols **before TGE** (Token Generation Event). Pichi offers significant design improvements to the points trading process by leveraging **ERC-6551 Accounts**, also known as **Tokenbound Accounts**.
 
+### Key Features:
 
-# What is Pichi Finance (PICHI)?
+- **Michi Wallet NFT**: Users can create a Michi Wallet NFT, which serves as a container for tokens that earn points. This innovative approach allows for more flexible and efficient point trading.
 
-![ picture ](https://ik.imagekit.io/l3jhuoqd2/g60VrDLQw3/review_1719571807613.webp)
-![ picture ](https://ik.imagekit.io/l3jhuoqd2/g60VrDLQw3/review_1719571652927.webp)
+- **ERC-6551 Wallet Integration**: Pichi utilizes ERC-6551 Accounts, providing users with a dedicated wallet for their Michi Wallet NFT. This integration ensures that the points earned by tokens deposited in the wallet are securely tracked and accumulated.
 
-Pichi is a trustless points protocol, allowing users to trade points from leading protocols pre-TGE. Pichi utilizes ERC-6551 (Tokenbound) Accounts which are owned by NFTs. Trading the NFT transfers custody of the account along with any points accrued to that account.   
+- **Points Accumulation and Withdrawal**: As tokens within the Michi Wallet NFT earn points, these points accumulate in the associated ERC-6551 wallet. Users have the flexibility to withdraw their points-earning tokens at any time.
 
-Pichi Wallet owners can list wallets for sale and points buyers can view listed wallets. Each listed wallet will give a full breakdown of points earned and what types of assets earned these points. Additional data such as a Time vs Points Balance graph and detailed views of wallet transactions will be shown to further visualize when points were earned.   
+- **Selling Points via NFT**: Once enough points have been accumulated in the wallet, users can choose to sell the Michi Wallet NFT. By doing so, they effectively sell the accrued points, offering a new way to monetize points before the official TGE.
 
-Pichi Marketplace sales will be peer-to-peer and fully trustless. Once a wallet is purchased, the buyer can view the Michi Wallet within their dashboard and have full access to any airdrops or incentives distributed to this wallet. Listings and offers will be created via EIP-712 signatures stored within the Michi database.   
+### Advantages:
 
-![ picture ](https://ik.imagekit.io/l3jhuoqd2/g60VrDLQw3/review_1719571732624.webp)
+- **Pre-TGE Trading**: Pichi Finance allows users to trade points before the TGE, providing liquidity and value to points that would otherwise be locked until the event.
 
-# What makes Pichi Finance (PICHI) unique?
-Our project is unique because it utilizes the ERC-6551 contract, making it trustless to trade points, with no collateral at all. When points are traded, the points and wallet are fully transferred, along with custody of the account.   
+- **Improved Trading Mechanics**: The use of ERC-6551 Accounts offers a more efficient and secure method for trading points, with the flexibility of using NFTs as the trading medium.
 
-There is a competitor called Whales Market - however, sellers and buyers require collateral, and also, they might also renege upon their trade of the points upon TGE - which is what we are trying to solve.   
-
-# What is Pichi Finance (PICHI) roadmap?
-![ picture ](https://ik.imagekit.io/l3jhuoqd2/g60VrDLQw3/review_1719570268559.png)
-
-# What is Pichi Finance (PICHI) marketing strategy?
-* Galxe and Taskon Questing Campaigns
-* Pichi Points to attract deposits and TVL
-* KOLs
-* Referral Campaign
-* Gamification on platform
-* Partnership Marketing
-
-# Who are the partners and investors of Pichi Finance (PICHI)?
-**Partners:**
-* Signum Capital
-* UOB Venture Management
-* Mantle Network
-* DWF Ventures
-* Wise Ventures
-* GBV
-* Ryze Labs
-* Contango
-* Acquire.Fi
-* One Block Capital - Advisory
-* Notch Ventures
-  
-**Angels:**
-* @dcfgod
-* @ahboyash
-* @TheCryptoDog
-* @0xNairofi
-* @2lambro
-* @pthevenstrong
-* @MaybeMaxPower
-* @MacnBTC
-* @MarioNawfal
-* @0xNoFacex0
-* @nekoziek
-* @pyroNFT
-* @CryptoNautsShow
-* @ZeroXSaitama
+- **User Control and Flexibility**: Users have full control over when to withdraw their tokens or sell their Michi Wallet NFT, offering a customizable and user-friendly experience.
