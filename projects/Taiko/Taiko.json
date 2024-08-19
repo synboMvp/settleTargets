@@ -2,8 +2,7 @@
 {
     "project": {
         "title": "Taiko",
-        "description":"
-Ecentralized is a cutting-edge, Ethereum-equivalent ZK-Rollup that ensures scalability, security, and privacy through advanced zero-knowledge proof technology, offering seamless integration with existing Ethereum infrastructure.",
+        "description":"Ecentralized is a cutting-edge, Ethereum-equivalent ZK-Rollup that ensures scalability, security, and privacy through advanced zero-knowledge proof technology, offering seamless integration with existing Ethereum infrastructure.",
         "bannerImage": "https://pbs.twimg.com/profile_banners/1529303887668056064/1716029341/1500x500",
         "tags": "Infra,Layer2,zk",
         "logo": "https://pbs.twimg.com/profile_images/1664696448808615937/LQhJeOO__400x400.jpg",
