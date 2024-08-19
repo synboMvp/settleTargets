@@ -1,9 +1,9 @@
 {
     "project": {
         "title": "VitaDAO",
-        "description": "Decentralized collective funding early stage longevity research",
+        "description": "Decentralized collective funding platform focused on supporting early-stage longevity research, empowering a global community to pool resources, accelerate breakthroughs, and drive innovation in extending healthy human lifespan.",
         "bannerImage": "https://pbs.twimg.com/profile_banners/1361314891425067009/1637836051/1500x500",
-        "tags": "DeSci、DAO",
+        "tags": "DeSci,DAO",
         "logo": "https://pbs.twimg.com/profile_images/1654608284559593474/yNcmvtMG_400x400.jpg",
         "chains": "ETH"
     },
