@@ -2,9 +2,9 @@
 {
     "project": {
         "title": "Avail",
-        "description": "Modular blockchain focused on data availability ",
+        "description": "A modular blockchain focused on data availability ensures that data is easily accessible and verifiable, enhancing scalability, reducing bottlenecks, and allowing for more efficient, decentralized storage and processing across the network.",
         "bannerImage": "https://pbs.twimg.com/profile_banners/1508458204866486283/1687262602/1500x500",
-        "tags": "Infra、Modular、DA",
+        "tags": "Infra,Modular,DAO",
         "logo": "https://pbs.twimg.com/profile_images/1671126588694609920/THQgYJtf_400x400.png",
         "chains": "ETH"
     },
