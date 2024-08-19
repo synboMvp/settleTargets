@@ -1,9 +1,9 @@
 {
     "project": {
         "title": "Maple Finance",
-        "description": "Modular blockchain focused on data availability ",
+        "description": "A modular blockchain focused on data availability optimizes the separation of data storage from consensus mechanisms, ensuring reliable access to data, improving scalability, and enabling more efficient and flexible decentralized applications.",
         "bannerImage": "https://pbs.twimg.com/profile_banners/1164762427604389890/1711531486/1500x500",
-        "tags": "DeFi、Lending、RWA、Institutional DeFi",
+        "tags": "DeFi,Lending,RWA,Institutional",
         "logo": "https://pbs.twimg.com/profile_images/1772917736655433728/l7GYu-hy_400x400.jpg",
         "chains": "ETH、Solana、Base"
     },
