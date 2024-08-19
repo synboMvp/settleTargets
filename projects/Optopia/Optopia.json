@@ -1,9 +1,9 @@
 {
     "project": {
         "title": "Optopia",
-        "description": "L2 Blockchain designed for AI applications",
+        "description": "An L2 blockchain designed for AI applications enhances scalability and processing power, enabling efficient data handling and faster execution of complex AI algorithms while maintaining security and decentralization.",
         "bannerImage": "https://pbs.twimg.com/profile_banners/1747452081911504896/1706857149/1500x500",
-        "tags": "Infra、Layer2、AI",
+        "tags": "Infra,Layer2,AI",
         "logo": "https://pbs.twimg.com/profile_images/1772459729803194368/W-Je5Rci_400x400.jpg",
         "chains": "ETH"
     },
