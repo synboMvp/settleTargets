@@ -1,7 +1,7 @@
 {
     "project": {
         "title": "AltLayer",
-        "description": "The execution and elastic scaling layer in a blockchain enables dynamic adjustment of computational resources. ensuring efficient transaction processing, scalability, and seamless adaptation to varying network demands.",
+        "description": "The execution and elastic scaling layer in a blockchain enables dynamic adjustment of computational resources, ensuring efficient transaction processing, scalability, and seamless adaptation to varying network demands.",
         "bannerImage": "https://pbs.twimg.com/profile_banners/1498914460332740611/1714982207/1500x500",
         "tags": "Infra,Modular,Restaking,LSD",
         "logo": "https://pbs.twimg.com/profile_images/1787391034957144064/183kLjsg_400x400.jpg",
