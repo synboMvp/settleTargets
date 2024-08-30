@@ -1,4 +1,4 @@
-# What makes Weave6 ($WX) unique? Test 1111
+# What makes Weave6 ($WX) unique? 
 
 **MultiChain Trading and Launching Platforms for Omnichain Assets**
 
