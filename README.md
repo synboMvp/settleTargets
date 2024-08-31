@@ -1,4 +1,4 @@
-## 入驻项目信息提交
+## Submit project information
 Please submit the project using a feature branch, add a new folder in the "projects" folder, and use the project name as the naming convention, example: **synboProtocol**, and make sure the folder name is unique.     
 
 You can then add project basic information files, project details files, AMA files, and terms files to this folder.     
