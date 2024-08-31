@@ -6,35 +6,7 @@ You can then add project basic information files, project details files, AMA fil
 **1、 Project basic information file**     
 ***Naming convention***: Use camel case naming, name it after the project name, and end with .json.       
      Example: **synboProtocol.json**      
-***File content***: Contains the document fields below, please read carefully.       
-
-**2. Project details file**     
-***Naming convention***: The file name starts with info_, plus the project name, and ends with .md.     
-     Example: **info_synboProtocol.md**    
-***File content***: A detailed project overview, project details information provided through visual and text documents. Contents may include but are not limited to:     
-1、Project overview: Detailed description of the background, goals, and features of the project.     
-2、Team details: Introduce team members and their backgrounds.   
-3、Token economy: Describe the issuance mechanism, allocation plan, and purpose of the token.    
-4、Roadmap: The future development plan and timeline of the project.   
-5、Historical fundraising information: including information such as financing rounds, amounts, and investors.    
-
-**3. AMA file**   
-***Naming convention***: The file name starts with ama_, plus the project name, and ends with .md.   
-     Example: **ama_synboProtocol.md**   
-***File content***: Interact with users in the form of questions and answers   
-
-**4. Terms file**   
-***Naming convention***: The file name starts with terms_, plus the project name, and ends with .md.   
-     Example: **terms_synboProtocol.md**  
-***File content***: Describe the project's terms of use and policies in detail, including but not limited to:   
-1、Terms of Service: Services provided by the project and their conditions of use.   
-2、Privacy Policy: How user data is collected, used, and protected.   
-3、Disclaimer: The project party's statement of responsibility for users' use of project services.   
-
-After submission, it will be reviewed by a dedicated team member and merged into the main branch. Project information will only be visible on the merged website.    
-
-**The following is the fields included in the project basic information file, please read carefully:** 
-
+***File content***: The file content is as follows, please read carefully.  
 "IDs by automatically generated": {    
 "Data-ID":"Automatically generated, only one for a project.",    
 "IPFS-ID[Data-ID]":"Automatically generated, only one for a project on IPFS",    
@@ -76,4 +48,29 @@ After submission, it will be reviewed by a dedicated team member and merged into
 “discord”: "",    
 “email”: ""    
 }
+
+
+**2. Project details file**     
+***Naming convention***: The file name starts with info_, plus the project name, and ends with .md.     
+     Example: **info_synboProtocol.md**    
+***File content***: A detailed project overview, project details information provided through visual and text documents. Contents may include but are not limited to:     
+1、Project overview: Detailed description of the background, goals, and features of the project.     
+2、Team details: Introduce team members and their backgrounds.   
+3、Token economy: Describe the issuance mechanism, allocation plan, and purpose of the token.    
+4、Roadmap: The future development plan and timeline of the project.   
+5、Historical fundraising information: including information such as financing rounds, amounts, and investors.    
+
+**3. AMA file**   
+***Naming convention***: The file name starts with ama_, plus the project name, and ends with .md.   
+     Example: **ama_synboProtocol.md**   
+***File content***: Interact with users in the form of questions and answers   
+
+**4. Terms file**   
+***Naming convention***: The file name starts with terms_, plus the project name, and ends with .md.   
+     Example: **terms_synboProtocol.md**  
+***File content***: Describe the financing terms in detail 
+
+After the above 4 files are submitted, they will be reviewed by a dedicated team member and merged into the main branch. Project information will only be visible on the merged website.
+
+
 
